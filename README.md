@@ -4,4 +4,4 @@
 - data_mining_final.ipynb
   - Jupyter notebook file containing data processing and modeling steps  
 - diabetes_classification_report.pdf
-  - Final report in IEEE formatted Latex document
+  - IEEE formatted final report created in Latex
