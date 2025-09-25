@@ -1,4 +1,7 @@
 # Final project for CS5831 -- Advanced Data Mining
-- data_mining_final.ipynb: csv file containing the dataset from https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset 
-- Jupyter notebook file containing data processing and modeling steps: data_mining_final.ipynb 
-- Final report in IEEE formatted Latex document: data_mining_final.ipynb
+- diabetes_binary_5050split_health_indicators_BRFSS2015.csv
+  - csv file containing the dataset from https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset 
+- data_mining_final.ipynb
+  - Jupyter notebook file containing data processing and modeling steps  
+- diabetes_classification_report.pdf
+  - Final report in IEEE formatted Latex document
